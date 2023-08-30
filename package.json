@@ -37,7 +37,7 @@
 		"@babel/plugin-proposal-decorators": "^7.21.0",
 		"@playwright/test": "^1.34.3",
 		"@tldraw/assets": "2.0.0-canary.f2e95988e03c",
-		"@tldraw/tldraw": "2.0.0-canary.f2e95988e03c",
+		"@tldraw/tldraw": "2.0.0-canary.89914684467c",
 		"@tldraw/utils": "2.0.0-canary.f2e95988e03c",
 		"@types/react": "^18.0.24",
 		"@types/react-dom": "^18.0.6",
