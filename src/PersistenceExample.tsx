@@ -4,7 +4,7 @@ import '@tldraw/tldraw/ui.css'
 import { throttle } from '@tldraw/utils'
 import { useLayoutEffect, useState } from 'react'
 
-const PERSISTENCE_KEY = 'example-3'
+const PERSISTENCE_KEY = 'tldraw'
 
 export default function PersistenceExample() {
 	const [store] = useState(() => createTLStore())
